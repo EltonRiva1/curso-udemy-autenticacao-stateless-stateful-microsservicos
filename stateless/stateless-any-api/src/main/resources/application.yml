@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: stateless-any-api
+server:
+  port: ${PORT:8081}
+app:
+  token:
+    secret-key: ${JWT_SECRET_KET:Y3Vyc28tYXV0ZW50aWNhY2FvLXN0YXRlZnVsLXN0YXRlbGVzcy1taWNyb3NzZXJ2aWNvcw==}

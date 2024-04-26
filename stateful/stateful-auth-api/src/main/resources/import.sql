@@ -1,0 +1,2 @@
+insert into public.user (id, username, password) values (1, 'user.test', '$2a$10$bgxmFAyjO954jFEHCFovDOMNIzwKHXHWtG9P9.yQ7DwWDLl/GWH72');
+insert into public.user (id, username, password) values (2, 'user.new.test', '$2a$10$bgxmFAyjO954jFEHCFovDOMNIzwKHXHWtG9P9.yQ7DwWDLl/GWH72');
